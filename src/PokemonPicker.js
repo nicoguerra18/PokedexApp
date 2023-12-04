@@ -66,7 +66,7 @@ export default function PokemonPicker({ onAddPokemon }) {
               className="search"
               type="text"
               onChange={handleChange}
-              placeholder="Search Pokémon... (eg: snorlax)"
+              placeholder="Search Pokémon... (eg. snorlax)"
               value={pokemon}
             />
           </label>
